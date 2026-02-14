@@ -1,0 +1,26 @@
+# Requirements for Principal Component Analysis on Iris Dataset
+# Assignment 3 - Artificial Intelligence II
+# Python 3.8+
+
+# Core Scientific Computing
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Data Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Jupyter Notebook (optional - for local execution)
+jupyter>=1.0.0
+jupyterlab>=3.0.0
+notebook>=6.4.0
+
+# IPython (enhanced interactive shell)
+ipython>=7.25.0
+
+# Additional utilities
+pillow>=8.3.0  # Image processing (for saving figures)
