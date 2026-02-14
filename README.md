@@ -307,13 +307,8 @@ This project is created for educational purposes as part of the Artificial Intel
 ## 🙏 Acknowledgments
 
 - Dr Andrés Hernández Gutiérrez for the comprehensive assignment guidelines
-- R.A. Fisher for the original Iris dataset
-- The scikit-learn development team for providing accessible ML tools
-- The Python scientific computing community
 
 ---
-
-**Note:** Remember to replace placeholder text (e.g., `Matteo Peroni`, `perofficial`) with your actual information before submission.
 
 ## ⭐ If you find this helpful, please star this repository!
 
