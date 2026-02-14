@@ -117,6 +117,11 @@ cd 02-Principal-Component-Analysis
 pip install numpy pandas matplotlib seaborn scikit-learn scipy
 ```
 
+Or
+```bash
+pip install -r requirements.txt
+```
+
 ### Running the Notebook
 
 #### Option 1: Google Colab (Recommended)
