@@ -202,19 +202,7 @@ The notebook generates the following types of visualizations:
 - Data manipulation with Pandas
 - Advanced visualization with Matplotlib/Seaborn
 - Jupyter notebook best practices
-
-## 📝 Assignment Grading Criteria
-
-| Criterion | Points | Status |
-|-----------|--------|--------|
-| Code cell explanations | 35 | ✅ Complete |
-| Output descriptions & interpretations | 35 | ✅ Complete |
-| Conclusions | 10 | ✅ Complete |
-| References | 5 | ✅ Complete |
-| PDF version | 10 | ⏳ To be generated |
-| GitHub repository | 5 | ✅ Complete |
-
-**Total:** 100 points
+  
 
 ## 🔄 Workflow Summary
 
