@@ -153,8 +153,7 @@ jupyter lab
 │
 ├── 02-Principal-Component-Analysis.ipynb   # Main Jupyter notebook
 ├── README.md                               # This file
-├── requirements.txt
-
+└──  requirements.txt 
 ```
 
 ## 📊 Visualizations
